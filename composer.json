@@ -1,0 +1,15 @@
+{
+    "name": "whitecloud21/simple-redirects-php",
+    "require": {
+        "php": ">= 5.5.0",
+        "react/http": "^0.8.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WhiteCloud",
+            "email": "kgbcheb@ya.ru"
+        }
+    ],
+    "minimum-stability": "stable"
+}
